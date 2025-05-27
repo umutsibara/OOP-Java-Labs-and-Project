@@ -87,4 +87,4 @@ Bu proje, kullanıcıların günlük kalori alımlarını takip etmelerine yard�
 - Kodlar, eğitim amaçlı geliştirilmiş olup, gerçek dünya uygulamaları için ek geliştirmeler gerektirebilir
 
 ## 📄 Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız. 
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
