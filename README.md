@@ -13,6 +13,13 @@ Bu proje, Nesne Yönelimli Programlama prensiplerini uygulamalı olarak öğrenm
 - **Kalıtım (Inheritance)**: Kod tekrarını önleme ve yeniden kullanılabilirlik
 - **Çok Biçimlilik (Polymorphism)**: Farklı nesnelerin aynı arayüzü kullanabilmesi
 
+### UML (Unified Modeling Language)
+- Sınıf diyagramları oluşturma ve okuma
+- Nesne diyagramları ile sistem tasarımı
+- İlişki tipleri (Association, Aggregation, Composition)
+- UML araçları kullanımı (Visual Paradigm)
+- Sistem analizi ve tasarımı
+
 ## 📁 Proje İçeriği
 
 ### Laboratuvar Çalışmaları
@@ -23,6 +30,13 @@ Bu proje, Nesne Yönelimli Programlama prensiplerini uygulamalı olarak öğrenm
 - Farklı ürün tipleri için özel kar hesaplamaları
 - Günlük satış raporu oluşturma
 - Dosyalar: `Kasa.java`, `Kasiyer.java`, `Main.java`
+
+#### Lab2Ornek2: GPS Sistemi
+- GPS alıcısı ve uydu iletişimi
+- Konum verisi işleme ve analiz
+- String manipülasyonu ve veri dönüşümü
+- Nesne yönelimli sistem tasarımı
+- Dosyalar: `GPSProgrami.java`, `GPSAlicisi.java`, `Uydu.java`, `Test.java`
 
 #### Lab3: Geometrik Şekiller
 - Geometrik şekiller için sınıf hiyerarşisi
@@ -85,6 +99,7 @@ Bu proje, kullanıcıların günlük kalori alımlarını takip etmelerine yard�
 - Her bir laboratuvar çalışması, belirli OOP kavramlarını ve Java özelliklerini öğrenmek için tasarlanmıştır
 - Final projesi, öğrenilen tüm kavramların pratik bir uygulamasıdır
 - Kodlar, eğitim amaçlı geliştirilmiş olup, gerçek dünya uygulamaları için ek geliştirmeler gerektirebilir
+- UML diyagramları ile sistem tasarımı ve analizi yapılmıştır
 
 ## 📄 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
