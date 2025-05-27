@@ -24,6 +24,12 @@ Bu proje, Nesne Yönelimli Programlama prensiplerini uygulamalı olarak öğrenm
 
 ### Laboratuvar Çalışmaları
 
+#### Lab1: Interface, Abstract Class ve Inheritance Örnekleri
+- Person hiyerarşisi (Person, Mudur, Teknisyen, Sekreter)
+- Kitap sistemi (Kitap interface'i ve farklı kitap türleri)
+- Sporcu sistemi (Sporcu abstract class'ı ve alt sınıfları)
+- Dosyalar: `Person.java`, `Kitap.java`, `Sporcu.java`, `Main.java`
+
 #### Lab2Ornek1: Restoran Kasa Sistemi
 - Restoran kasa yönetimi uygulaması
 - Ürün satışı ve kar hesaplama
